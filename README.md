@@ -1,4 +1,4 @@
-Solar-Car-Arduino-Shield
+# Solar Car Arduino Shield
 ## Overview
 The Arduino Uno shield PCB is designed to interface with various components of the Solar Car, providing enhanced control and monitoring capabilities. The shield integrates multiple sensors and modules to facilitate efficient power distribution and regulation.
 
