@@ -28,7 +28,7 @@ The Arduino Uno shield PCB includes the following components:
 * Temperature Sensor: Monitors the temperature of critical components.
 * CAN Module: Enables communication over the CAN bus for data exchange with other systems.
 
-### Assembly
+## Assembly
 
 1. **Component Sourcing:**
    - Procured all necessary components based on the BOM (Bill of Materials).
@@ -40,7 +40,7 @@ The Arduino Uno shield PCB includes the following components:
    - Hand-soldered components onto the PCB.
    - Used a soldering station and inspected connections under a microscope.
 
-### Testing
+## Testing
 
 1. **Initial Power-Up:**
    - Verified power connections and ensured there were no shorts.
